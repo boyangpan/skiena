@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/boyangpan/CLionProjects/skiena/algos/graph/bfs.cpp
+../../ds/graph/graph.h
+/Users/boyangpan/CLionProjects/skiena/ds/graph/graph.h
+../../ds/queue/queue.h
+/Users/boyangpan/CLionProjects/skiena/ds/queue/queue.h
+
+/Users/boyangpan/CLionProjects/skiena/ds/bool/bool.h
+
+/Users/boyangpan/CLionProjects/skiena/ds/graph/graph.h
+
+/Users/boyangpan/CLionProjects/skiena/ds/item/item.h
+
+/Users/boyangpan/CLionProjects/skiena/ds/queue/queue.cpp
+queue.h
+/Users/boyangpan/CLionProjects/skiena/ds/queue/queue.h
+../../ds/item/item.h
+/Users/boyangpan/CLionProjects/skiena/ds/item/item.h
+../../ds/bool/bool.h
+/Users/boyangpan/CLionProjects/skiena/ds/bool/bool.h
+stdio.h
+-
+
+/Users/boyangpan/CLionProjects/skiena/ds/queue/queue.h
+../../ds/item/item.h
+/Users/boyangpan/CLionProjects/skiena/ds/item/item.h
+
